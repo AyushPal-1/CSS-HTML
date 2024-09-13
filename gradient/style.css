@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 100%;
+    height: 100vh;
+    /* background-image: linear-gradient(to right, red, yellow); */
+    /* background-image: linear-gradient(45deg, red, yellow); */
+
+    /* to create circuler gradient */
+    /* background-image: radial-gradient(red,orange); */
+    /* background-image: radial-gradient(circle, red 20%, yellow 40%, orange 40%); */
+
+    background-image: repeating-radial-gradient(rgb(255, 8, 0),yellow 45px);
+
+    /* to create repeating gradient */
+    /* background-image: repeating-linear-gradient(45deg, lightblue, lightgreen 45px); */
+
+    /* color overlay */
+
+
+}

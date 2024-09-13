@@ -1,0 +1,17 @@
+p{
+    background-image: linear-gradient(to left, blue, lightblue);
+    padding: 30px;
+    margin-bottom: 40px;
+}
+a{
+    text-decoration-line: none;
+    background-image: linear-gradient(to left, blue, lightblue);
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-right: 30px;
+    display: inline-block;
+}
+a:hover{
+    color: #000;
+}

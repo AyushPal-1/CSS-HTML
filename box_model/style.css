@@ -1,0 +1,19 @@
+p{
+    border: 10px solid red;
+    width: 1000px;
+    color: white;
+    background-color: rgb(155, 88, 233);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+/* creating circle */
+
+div{
+    width: 500px;
+    height: 500px;
+    background-color: #5e9de9;
+    border-radius: 50%;
+    background-image: linear-gradient(orange,red);
+}

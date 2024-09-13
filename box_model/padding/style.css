@@ -1,0 +1,13 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+p{
+    border: 10px solid red;
+    width: 1000px;
+    color: white;
+    background-color: #9b58e9;
+    border-radius: 20px;
+    padding: 20px;
+}

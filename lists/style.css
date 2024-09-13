@@ -1,0 +1,27 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+.list{
+    width: 500px;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+ul{
+    list-style-type: circle;
+    list-style-position: inside;
+    /* list-style-image: ; */
+}
+
+li{
+    font-size: 32px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 16px;
+    border: 2px solid #ed5656;
+    position: relative;
+}
