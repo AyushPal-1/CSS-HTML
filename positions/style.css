@@ -1,0 +1,20 @@
+.parent-div{
+    width: 600px;
+    height: 550px;
+    margin: 60px;
+    background-image: linear-gradient(to right, #1c50df, #0ba8b9);
+    border-radius: 10px;
+    position: relative;
+}
+
+
+div{
+    background-image: linear-gradient(to right, #3cd3ad, #4cb8c4);
+    color: white;
+    width: 80px;
+    height: 80px;
+}
+
+.child{
+   position: absolute;
+}
